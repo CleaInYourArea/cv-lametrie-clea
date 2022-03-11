@@ -1,0 +1,42 @@
+.formation h1{
+	font-size: 30px;
+	font-family: montserrat;
+	text-align: center;
+	margin: 70px auto;
+	text-decoration: overline;
+}
+
+
+.formation h2{
+	font-size: 25px;
+	font-family: kaushan;
+	text-align: center;
+	background-color: #430b0b;
+	color: pink;
+	padding: 12px;
+}
+
+
+.formation-kedge{
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-gap: 20px;
+}
+
+
+.formation{
+	text-align: center;
+	background: white;
+	box-shadow: 3px 4px 6px 1px #0000004f;
+	padding: 20px;
+}
+
+
+#kedge{
+	width:400px;
+}
+
+
+#esg{
+	width:500px;
+}

@@ -1,0 +1,24 @@
+#hello{
+	text-align: center;
+}
+
+
+#pdp{
+	width: 300px;
+	border-radius: 50%;
+}
+
+.img{
+	width: 150px;
+}
+
+#text{
+	font-size: 17px;
+	text-align: start;
+	width: 85%;
+	margin: 20px auto;
+	background-color: white;
+	padding: 20px;
+	border-radius: 7px;
+	box-shadow: 3px 4px 6px 1px #0000004f;
+}
