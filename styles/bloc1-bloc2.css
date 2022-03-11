@@ -1,0 +1,29 @@
+
+#bloc1 a{
+	font-family: montserrat;
+	font-weight: bolder;
+	font-size: 20px;
+	text-align: center;
+	margin: 0 auto;
+	color: white;
+	text-decoration: none;
+	font-size: 30px;
+}
+
+
+#bloc1{
+	text-align:center;
+	background:linear-gradient(0deg, rgba(241,222,200,1) 0%, rgba(185,199,199,1) 100%);
+	width: 75%;
+	padding: 100px;
+	margin: 0 auto;
+	box-shadow: 0px -2px 8px 3px #0000004f;
+	border-radius: 5px;
+	display: block;
+	border:1px solid black;
+}
+
+
+
+
+
